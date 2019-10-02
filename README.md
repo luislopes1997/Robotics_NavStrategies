@@ -12,7 +12,7 @@ To run this program you need to:
 - Run Robotics.launch
 
 # Check the Results
-A video showing the behavior of the robot is avaiable at [Click Here](https://www.youtube.com/watch?v=8gfUe91DnrU&t=157s)
+A video showing the behavior of the robot is avaiable at [Youtube](https://www.youtube.com/watch?v=8gfUe91DnrU&t=157s)
 
 The final report is also avaiable for download, however it is written in Portuguese.
 
